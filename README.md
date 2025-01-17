@@ -13,7 +13,7 @@ IDE (e.g., IntelliJ IDEA, Eclipse) or command line for running Java programs
 How to Run
 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/brick-breaker-game.git
+git clone https://github.com/saish2004/Brick-Breaker-Game.git
 
 Step 2: Navigate to the src Folder
 Change into the src directory where the main Java file is located.
